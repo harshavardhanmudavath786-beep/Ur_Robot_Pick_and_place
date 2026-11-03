@@ -10,7 +10,7 @@ def generate_launch_description():
     return LaunchDescription([
         Node(
             package="robot_move",
-            executable="robot_move_execute",``
+            executable="robot_move_execute",
             output="screen",
             parameters=[moveit_config.robot_description,
                         moveit_config.robot_description_semantic,
