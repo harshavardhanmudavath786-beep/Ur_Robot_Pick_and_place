@@ -44,7 +44,7 @@ Required tools and dependencies:
 From a terminal:
 
 ```bash
-source /opt/ros/humble/setup.bash
+source /opt/ros/jazzy/setup.bash
 cd ~/robot_ws
 rosdep install --from-paths src --ignore-src -r -y
 colcon build --symlink-install
