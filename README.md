@@ -30,8 +30,8 @@ This project is intended for a ROS 2 Humble environment with MoveIt 2 installed.
 
 Required tools and dependencies:
 
-- Ubuntu 22.04
-- ROS 2 Humble
+- Ubuntu 24.04
+- ROS 2 Jazzy
 - MoveIt 2
 - colcon
 - rosdep
